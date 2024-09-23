@@ -30,6 +30,7 @@ This repository provides the scripts to run experiments with several popular Vis
    [LLaVA-pp on GitHub](https://github.com/mbzuai-oryx/LLaVA-pp)
 
 2. To run our experiment:
+
    Copy llama3v.py into RCOQ-M1/LLaVA-pp/LLaVA
     ```bash
     cd RCOQ-M1/LLaVA-pp/LLaVA
@@ -42,6 +43,7 @@ This repository provides the scripts to run experiments with several popular Vis
    [MiniGPT-4 on GitHub](https://github.com/Vision-CAIR/MiniGPT-4)
 
 2. To run our experiment:
+
    Copy minigpt.py into RCOQ-M1/MiniGPT-4
     ```bash
     cd RCOQ-M1/MiniGPT-4
