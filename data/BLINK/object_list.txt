@@ -1,0 +1,143 @@
+val_Spatial_Relation_1 car,cat
+val_Spatial_Relation_2 car,cat
+val_Spatial_Relation_3 bed,dining table
+val_Spatial_Relation_4 bowl,apple
+val_Spatial_Relation_5 person,bed
+val_Spatial_Relation_6 bicycle,bus
+val_Spatial_Relation_7 person,banana
+val_Spatial_Relation_8 person,kite
+val_Spatial_Relation_9 hair drier,person
+val_Spatial_Relation_10 laptop,person
+val_Spatial_Relation_11 person,elephant
+val_Spatial_Relation_12 suitcase,cat
+val_Spatial_Relation_13 cat,wine glass
+val_Spatial_Relation_14 person,donut
+val_Spatial_Relation_15 vase,cat
+val_Spatial_Relation_16 bus,motorcycle
+val_Spatial_Relation_17 dog,motorcycle
+val_Spatial_Relation_18 person,dining table
+val_Spatial_Relation_19 laptop,chair
+val_Spatial_Relation_20 laptop,teddy bear
+val_Spatial_Relation_21 table,cat
+val_Spatial_Relation_22 pizza,person
+val_Spatial_Relation_23 cat,umbrella
+val_Spatial_Relation_24 cat,teddy bear
+val_Spatial_Relation_25 sheep,bottle
+val_Spatial_Relation_26 motorcycle,train
+val_Spatial_Relation_27 truck,dog
+val_Spatial_Relation_28 person,horse
+val_Spatial_Relation_29 cat,teddy bear
+val_Spatial_Relation_30 car,donut
+val_Spatial_Relation_31 airplane,bicycle
+val_Spatial_Relation_32 surfboard,bed
+val_Spatial_Relation_33 bus,car
+val_Spatial_Relation_34 horse,potted plant
+val_Spatial_Relation_35 truck,car
+val_Spatial_Relation_36 boat,tv
+val_Spatial_Relation_37 person,book
+val_Spatial_Relation_38 bowl,cat
+val_Spatial_Relation_39 bench,bed
+val_Spatial_Relation_40 laptop,sandwich
+val_Spatial_Relation_41 orange,umbrella
+val_Spatial_Relation_42 chair,cat
+val_Spatial_Relation_43 cat,sink
+val_Spatial_Relation_44 refrigerator,dining table
+val_Spatial_Relation_45 cake,truck
+val_Spatial_Relation_46 dog,motorcycle
+val_Spatial_Relation_47 laptop,microwave
+val_Spatial_Relation_48 broccoli,bowl
+val_Spatial_Relation_49 dog,motorcycle
+val_Spatial_Relation_50 laptop,sandwich
+val_Spatial_Relation_51 bicycle,car
+val_Spatial_Relation_52 train,stop sign
+val_Spatial_Relation_53 apple,orange
+val_Spatial_Relation_54 teddy bear,bottle
+val_Spatial_Relation_55 person,potted plant
+val_Spatial_Relation_56 cup,cat
+val_Spatial_Relation_57 oven,cake
+val_Spatial_Relation_58 backpack,cat
+val_Spatial_Relation_59 teddy bear,dining table
+val_Spatial_Relation_60 sandwich,dining table
+val_Spatial_Relation_61 person,refrigerator
+val_Spatial_Relation_62 boat,truck
+val_Spatial_Relation_63 teddy bear,book
+val_Spatial_Relation_64 hair drier,chair
+val_Spatial_Relation_65 hot dog,person
+val_Spatial_Relation_66 cat,umbrella
+val_Spatial_Relation_67 bicycle,cat
+val_Spatial_Relation_68 person,bear
+val_Spatial_Relation_69 sink,cat
+val_Spatial_Relation_70 car,dog
+val_Spatial_Relation_71 laptop,couch
+val_Spatial_Relation_72 cup,cow
+val_Spatial_Relation_73 surfboard,dining table
+val_Spatial_Relation_74 fire hydrant,teddy bear
+val_Spatial_Relation_75 person,zebra
+val_Spatial_Relation_76 toilet,cat
+val_Spatial_Relation_77 laptop,cake
+val_Spatial_Relation_78 backpack,cat
+val_Spatial_Relation_79 sandwich,person
+val_Spatial_Relation_80 bicycle,train
+val_Spatial_Relation_81 person,pizza
+val_Spatial_Relation_82 sandwich,person
+val_Spatial_Relation_83 cat,bed
+val_Spatial_Relation_84 truck,boat
+val_Spatial_Relation_85 truck,boat
+val_Spatial_Relation_86 person,bed
+val_Spatial_Relation_87 truck,cat
+val_Spatial_Relation_88 cup,bowl
+val_Spatial_Relation_89 table,cat
+val_Spatial_Relation_90 cat,teddy bear
+val_Spatial_Relation_91 teddy bear,cat
+val_Spatial_Relation_92 tv,cat
+val_Spatial_Relation_93 cat,pizza
+val_Spatial_Relation_94 backpack,cat
+val_Spatial_Relation_95 cat,handbag
+val_Spatial_Relation_96 donut,bowl
+val_Spatial_Relation_97 cup,laptop
+val_Spatial_Relation_98 horse,cake
+val_Spatial_Relation_99 bicycle,umbrella
+val_Spatial_Relation_100 car,motorcycle
+val_Spatial_Relation_101 chair,person
+val_Spatial_Relation_102 couch,suitcase
+val_Spatial_Relation_103 dog,cat
+val_Spatial_Relation_104 pizza,person
+val_Spatial_Relation_105 couch,truck
+val_Spatial_Relation_106 laptop,bed
+val_Spatial_Relation_107 person,bed
+val_Spatial_Relation_108 dining table,cat
+val_Spatial_Relation_109 sandwich,person
+val_Spatial_Relation_110 boat,tv
+val_Spatial_Relation_111 person,dining table
+val_Spatial_Relation_112 bed,suitcase
+val_Spatial_Relation_113 dining table,donut
+val_Spatial_Relation_114 teddy bear,dog
+val_Spatial_Relation_115 chair,horse
+val_Spatial_Relation_116 person,hair drier
+val_Spatial_Relation_117 refrigerator,cat
+val_Spatial_Relation_118 dog,car
+val_Spatial_Relation_119 cat,keyboard
+val_Spatial_Relation_120 bed,book
+val_Spatial_Relation_121 dining table,potted plant
+val_Spatial_Relation_122 bench,cat
+val_Spatial_Relation_123 bed,dog
+val_Spatial_Relation_124 person,laptop
+val_Spatial_Relation_125 person,remote
+val_Spatial_Relation_126 oven,pizza
+val_Spatial_Relation_127 truck,suitcase
+val_Spatial_Relation_128 donut,dining table
+val_Spatial_Relation_129 bowl,sandwich
+val_Spatial_Relation_130 cat,suitcase
+val_Spatial_Relation_131 cat,suitcase
+val_Spatial_Relation_132 cat,refrigerator
+val_Spatial_Relation_133 banana,orange
+val_Spatial_Relation_134 car,dog
+val_Spatial_Relation_135 person,couch
+val_Spatial_Relation_136 teddy bear,cake
+val_Spatial_Relation_137 apple,orange
+val_Spatial_Relation_138 bear,person
+val_Spatial_Relation_139 dining table,dog
+val_Spatial_Relation_140 zebra,person
+val_Spatial_Relation_141 person,frisbee
+val_Spatial_Relation_142 cat,laptop
+val_Spatial_Relation_143 person,cup

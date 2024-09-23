@@ -1,0 +1,341 @@
+idx,question
+val_Spatial_Reasoning_1,The dog is on the surfboard.
+val_Spatial_Reasoning_2,The laptop is at the left side of the dog.
+val_Spatial_Reasoning_3,The laptop is inside the train.
+val_Spatial_Reasoning_4,The zebra is behind the horse.
+val_Spatial_Reasoning_5,The chair is under the dog.
+val_Spatial_Reasoning_6,The chair is beneath the horse.
+val_Spatial_Reasoning_7,The chair is above the dog.
+val_Spatial_Reasoning_8,The zebra is left of the horse.
+val_Spatial_Reasoning_9,The motorcycle is ahead of the train.
+val_Spatial_Reasoning_10,The bench is over the dog.
+val_Spatial_Reasoning_11,The train is perpendicular to the motorcycle.
+val_Spatial_Reasoning_12,The laptop is above the dog.
+val_Spatial_Reasoning_13,The motorcycle is behind the dog.
+val_Spatial_Reasoning_14,The dog is in the middle of the chair.
+val_Spatial_Reasoning_15,The refrigerator is at the left side of the dog.
+val_Spatial_Reasoning_16,The chair is opposite to the dog.
+val_Spatial_Reasoning_17,The dog is on the motorcycle.
+val_Spatial_Reasoning_18,The bench is touching the dog.
+val_Spatial_Reasoning_19,The bench is in front of the train.
+val_Spatial_Reasoning_20,The laptop is on the bench.
+val_Spatial_Reasoning_21,The bench is touching the dog.
+val_Spatial_Reasoning_22,The laptop is facing the chair.
+val_Spatial_Reasoning_23,The laptop is beside the train.
+val_Spatial_Reasoning_24,The train is away from the chair.
+val_Spatial_Reasoning_25,The laptop is at the left side of the dog.
+val_Spatial_Reasoning_26,The dog is in front of the chair.
+val_Spatial_Reasoning_27,The laptop is on top of the handbag.
+val_Spatial_Reasoning_28,The dog is on the motorcycle.
+val_Spatial_Reasoning_29,The laptop is in front of the dog.
+val_Spatial_Reasoning_30,The chair is on the train.
+val_Spatial_Reasoning_31,The dog is at the left side of the motorcycle.
+val_Spatial_Reasoning_32,The bench is under the dog.
+val_Spatial_Reasoning_33,The laptop is on top of the bench.
+val_Spatial_Reasoning_34,The dog is under the chair.
+val_Spatial_Reasoning_35,The laptop is on top of the bench.
+val_Spatial_Reasoning_36,The motorcycle is ahead of the train.
+val_Spatial_Reasoning_37,The laptop is at the left side of the dog.
+val_Spatial_Reasoning_38,The dog is below the bench.
+val_Spatial_Reasoning_39,The chair is behind the dog.
+val_Spatial_Reasoning_40,The train is left of the bench.
+val_Spatial_Reasoning_41,The chair is above the dog.
+val_Spatial_Reasoning_42,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_43,The dog is far away from the horse.
+val_Spatial_Reasoning_44,The chair is away from the horse.
+val_Spatial_Reasoning_45,The train contains the laptop.
+val_Spatial_Reasoning_46,The train contains the laptop.
+val_Spatial_Reasoning_47,The refrigerator is behind the dog.
+val_Spatial_Reasoning_48,The dog is in front of the motorcycle.
+val_Spatial_Reasoning_49,The motorcycle is ahead of the train.
+val_Spatial_Reasoning_50,The motorcycle is under the dog.
+val_Spatial_Reasoning_51,The chair is against the train.
+val_Spatial_Reasoning_52,The dog is below the motorcycle.
+val_Spatial_Reasoning_53,The chair is at the right side of the laptop.
+val_Spatial_Reasoning_54,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_55,The dog is in the motorcycle.
+val_Spatial_Reasoning_56,The motorcycle is behind the dog.
+val_Spatial_Reasoning_57,The motorcycle is behind the dog.
+val_Spatial_Reasoning_58,The chair is behind the dog.
+val_Spatial_Reasoning_59,The dog is at the right side of the laptop.
+val_Spatial_Reasoning_60,The bench is touching the laptop.
+val_Spatial_Reasoning_61,The train is perpendicular to the bench.
+val_Spatial_Reasoning_62,The dog is under the bench.
+val_Spatial_Reasoning_63,The refrigerator is behind the bench.
+val_Spatial_Reasoning_64,The dog is under the chair.
+val_Spatial_Reasoning_65,The bench is in front of the refrigerator.
+val_Spatial_Reasoning_66,The chair is under the dog.
+val_Spatial_Reasoning_67,The chair is at the right side of the dog.
+val_Spatial_Reasoning_68,The laptop is at the left side of the chair.
+val_Spatial_Reasoning_69,The dog is far from the surfboard.
+val_Spatial_Reasoning_70,The bench is touching the dog.
+val_Spatial_Reasoning_71,The surfboard is under the dog.
+val_Spatial_Reasoning_72,The laptop is off the dog.
+val_Spatial_Reasoning_73,The dog is in front of the motorcycle.
+val_Spatial_Reasoning_74,The bench is in front of the refrigerator.
+val_Spatial_Reasoning_75,The bench is part of the train.
+val_Spatial_Reasoning_76,The dog is on the motorcycle.
+val_Spatial_Reasoning_77,The refrigerator is at the left side of the dog.
+val_Spatial_Reasoning_78,The chair is under the horse.
+val_Spatial_Reasoning_79,The dog is on the chair.
+val_Spatial_Reasoning_80,The wine glass is facing the dog.
+val_Spatial_Reasoning_81,The motorcycle is at the left side of the train.
+val_Spatial_Reasoning_82,The dog is in front of the motorcycle.
+val_Spatial_Reasoning_83,The laptop is in front of the dog.
+val_Spatial_Reasoning_84,The laptop is in front of the refrigerator.
+val_Spatial_Reasoning_85,The laptop is at the left side of the chair.
+val_Spatial_Reasoning_86,The bench is surrounding the horse.
+val_Spatial_Reasoning_87,The zebra is touching the horse.
+val_Spatial_Reasoning_88,The dog is at the left side of the horse.
+val_Spatial_Reasoning_89,The dog is in the chair.
+val_Spatial_Reasoning_90,The bench is in front of the train.
+val_Spatial_Reasoning_91,The train is in front of the motorcycle.
+val_Spatial_Reasoning_92,The dog is facing away from the laptop.
+val_Spatial_Reasoning_93,The dog is facing away from the laptop.
+val_Spatial_Reasoning_94,The dog is at the right side of the refrigerator.
+val_Spatial_Reasoning_95,The dog is beneath the chair.
+val_Spatial_Reasoning_96,The laptop is on top of the bench.
+val_Spatial_Reasoning_97,The dog is under the chair.
+val_Spatial_Reasoning_98,The train is on top of the laptop.
+val_Spatial_Reasoning_99,The dog is under the bench.
+val_Spatial_Reasoning_100,The refrigerator is behind the dog.
+val_Spatial_Reasoning_101,The refrigerator is facing the bench.
+val_Spatial_Reasoning_102,The dog is facing the chair.
+val_Spatial_Reasoning_103,The motorcycle is in front of the dog.
+val_Spatial_Reasoning_104,The train is left of the bench.
+val_Spatial_Reasoning_105,The chair is below the horse.
+val_Spatial_Reasoning_106,The laptop is at the edge of the bench.
+val_Spatial_Reasoning_107,The chair is over the dog.
+val_Spatial_Reasoning_108,The laptop is at the edge of the bench.
+val_Spatial_Reasoning_109,The train is perpendicular to the bench.
+val_Spatial_Reasoning_110,The dog is far away from the horse.
+val_Spatial_Reasoning_111,The motorcycle is behind the dog.
+val_Spatial_Reasoning_112,The train contains the chair.
+val_Spatial_Reasoning_113,The zebra is behind the horse.
+val_Spatial_Reasoning_114,The laptop is touching the bench.
+val_Spatial_Reasoning_115,The dog is above the laptop.
+val_Spatial_Reasoning_116,The bench is below the dog.
+val_Spatial_Reasoning_117,The laptop is above the dog.
+val_Spatial_Reasoning_118,The chair is beneath the horse.
+val_Spatial_Reasoning_119,The chair is facing the laptop.
+val_Spatial_Reasoning_120,The dog is facing the horse.
+val_Spatial_Reasoning_121,The zebra is touching the horse.
+val_Spatial_Reasoning_122,The laptop is facing the chair.
+val_Spatial_Reasoning_123,The laptop is facing away from the chair.
+val_Spatial_Reasoning_124,The dog is below the bench.
+val_Spatial_Reasoning_125,The chair is under the horse.
+val_Spatial_Reasoning_126,The dog is on top of the bench.
+val_Spatial_Reasoning_127,The bench is behind the laptop.
+val_Spatial_Reasoning_128,The laptop is above the chair.
+val_Spatial_Reasoning_129,The laptop is on the bench.
+val_Spatial_Reasoning_130,The dog is at the right side of the horse.
+val_Spatial_Reasoning_131,The bench is touching the dog.
+val_Spatial_Reasoning_132,The dog is in front of the chair.
+val_Spatial_Reasoning_133,The dog is facing away from the horse.
+val_Spatial_Reasoning_134,The bench is under the dog.
+val_Spatial_Reasoning_135,The surfboard is under the dog.
+val_Spatial_Reasoning_136,The chair is touching the dog.
+val_Spatial_Reasoning_137,The laptop is in front of the dog.
+val_Spatial_Reasoning_138,The chair is opposite to the dog.
+val_Spatial_Reasoning_139,The dog is under the bench.
+val_Spatial_Reasoning_140,The chair is under the dog.
+val_Spatial_Reasoning_141,The motorcycle is facing the train.
+val_Spatial_Reasoning_142,The train contains the laptop.
+val_Spatial_Reasoning_143,The dog is on the motorcycle.
+val_Spatial_Reasoning_144,The wine glass is facing the dog.
+val_Spatial_Reasoning_145,The skateboard is in front of the dog.
+val_Spatial_Reasoning_146,The dog is at the edge of the laptop.
+val_Spatial_Reasoning_147,The motorcycle is facing the train.
+val_Spatial_Reasoning_148,The dog is alongside the horse.
+val_Spatial_Reasoning_149,The dog is opposite to the horse.
+val_Spatial_Reasoning_150,The dog is by the frisbee.
+val_Spatial_Reasoning_151,The bench is below the dog.
+val_Spatial_Reasoning_152,The dog is at the right side of the motorcycle.
+val_Spatial_Reasoning_153,The laptop is under the train.
+val_Spatial_Reasoning_154,The laptop is inside the train.
+val_Spatial_Reasoning_155,The dog is on the motorcycle.
+val_Spatial_Reasoning_156,The train is behind the motorcycle.
+val_Spatial_Reasoning_157,The chair is under the dog.
+val_Spatial_Reasoning_158,The chair is touching the handbag.
+val_Spatial_Reasoning_159,The train is near the laptop.
+val_Spatial_Reasoning_160,The zebra is left of the horse.
+val_Spatial_Reasoning_161,The dog is far from the bench.
+val_Spatial_Reasoning_162,The dog is under the chair.
+val_Spatial_Reasoning_163,The dog is at the right side of the bench.
+val_Spatial_Reasoning_164,The dog is touching the laptop.
+val_Spatial_Reasoning_165,The dog is facing the wine glass.
+val_Spatial_Reasoning_166,The laptop is under the train.
+val_Spatial_Reasoning_167,The bench is below the dog.
+val_Spatial_Reasoning_168,The chair is beneath the horse.
+val_Spatial_Reasoning_169,The chair is away from the horse.
+val_Spatial_Reasoning_170,The motorcycle is by the dog.
+val_Spatial_Reasoning_171,The dog is far from the surfboard.
+val_Spatial_Reasoning_172,The laptop is on top of the bench.
+val_Spatial_Reasoning_173,The refrigerator is right of the dog.
+val_Spatial_Reasoning_174,The motorcycle is under the dog.
+val_Spatial_Reasoning_175,The laptop is facing the chair.
+val_Spatial_Reasoning_176,The refrigerator is behind the dog.
+val_Spatial_Reasoning_177,The refrigerator contains the dog.
+val_Spatial_Reasoning_178,The chair is at the right side of the laptop.
+val_Spatial_Reasoning_179,The bench is below the laptop.
+val_Spatial_Reasoning_180,The bench is at the right side of the refrigerator.
+val_Spatial_Reasoning_181,The motorcycle is at the left side of the dog.
+val_Spatial_Reasoning_182,The dog is on the motorcycle.
+val_Spatial_Reasoning_183,The zebra is perpendicular to the horse.
+val_Spatial_Reasoning_184,The laptop is facing the chair.
+val_Spatial_Reasoning_185,The dog is under the chair.
+val_Spatial_Reasoning_186,The dog is on the motorcycle.
+val_Spatial_Reasoning_187,The laptop is at the left side of the dog.
+val_Spatial_Reasoning_188,The train is behind the motorcycle.
+val_Spatial_Reasoning_189,The chair is on top of the horse.
+val_Spatial_Reasoning_190,The bench is in front of the train.
+val_Spatial_Reasoning_191,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_192,The chair is beneath the horse.
+val_Spatial_Reasoning_193,The skateboard is at the left side of the dog.
+val_Spatial_Reasoning_194,The skateboard is at the left side of the dog.
+val_Spatial_Reasoning_195,The dog is above the bench.
+val_Spatial_Reasoning_196,The dog is in the motorcycle.
+val_Spatial_Reasoning_197,The bench is part of the train.
+val_Spatial_Reasoning_198,The dog is inside the handbag.
+val_Spatial_Reasoning_199,The refrigerator contains the dog.
+val_Spatial_Reasoning_200,The laptop is facing away from the chair.
+val_Spatial_Reasoning_201,The dog is inside the handbag.
+val_Spatial_Reasoning_202,The chair is over the dog.
+val_Spatial_Reasoning_203,The bench is above the dog.
+val_Spatial_Reasoning_204,The dog is beneath the chair.
+val_Spatial_Reasoning_205,The dog is touching the laptop.
+val_Spatial_Reasoning_206,The dog is at the right side of the horse.
+val_Spatial_Reasoning_207,The motorcycle is in front of the dog.
+val_Spatial_Reasoning_208,The dog is beneath the bench.
+val_Spatial_Reasoning_209,The dog is beneath the bench.
+val_Spatial_Reasoning_210,The dog is on the surfboard.
+val_Spatial_Reasoning_211,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_212,The dog is behind the bench.
+val_Spatial_Reasoning_213,The dog is next to the laptop.
+val_Spatial_Reasoning_214,The laptop is inside the train.
+val_Spatial_Reasoning_215,The dog is alongside the horse.
+val_Spatial_Reasoning_216,The train is behind the bench.
+val_Spatial_Reasoning_217,The motorcycle is next to the dog.
+val_Spatial_Reasoning_218,The refrigerator is behind the dog.
+val_Spatial_Reasoning_219,The dog is at the right side of the bench.
+val_Spatial_Reasoning_220,The laptop is in front of the dog.
+val_Spatial_Reasoning_221,The dog is above the laptop.
+val_Spatial_Reasoning_222,The dog is at the edge of the bench.
+val_Spatial_Reasoning_223,The train is in front of the motorcycle.
+val_Spatial_Reasoning_224,The dog is under the chair.
+val_Spatial_Reasoning_225,The train contains the chair.
+val_Spatial_Reasoning_226,The dog is facing away from the horse.
+val_Spatial_Reasoning_227,The laptop is in front of the refrigerator.
+val_Spatial_Reasoning_228,The dog is at the right side of the horse.
+val_Spatial_Reasoning_229,The bench is above the dog.
+val_Spatial_Reasoning_230,The dog is out of the chair.
+val_Spatial_Reasoning_231,The motorcycle is ahead of the train.
+val_Spatial_Reasoning_232,The chair is touching the dog.
+val_Spatial_Reasoning_233,The bench is at the right side of the refrigerator.
+val_Spatial_Reasoning_234,The bench is under the dog.
+val_Spatial_Reasoning_235,The bench is below the laptop.
+val_Spatial_Reasoning_236,The chair is beneath the horse.
+val_Spatial_Reasoning_237,The dog is on top of the bench.
+val_Spatial_Reasoning_238,The refrigerator is facing the bench.
+val_Spatial_Reasoning_239,The bench is close to the laptop.
+val_Spatial_Reasoning_240,The motorcycle contains the dog.
+val_Spatial_Reasoning_241,The dog is in front of the motorcycle.
+val_Spatial_Reasoning_242,The train is next to the laptop.
+val_Spatial_Reasoning_243,The laptop is next to the refrigerator.
+val_Spatial_Reasoning_244,The motorcycle is next to the dog.
+val_Spatial_Reasoning_245,The chair is beneath the horse.
+val_Spatial_Reasoning_246,The dog is far from the bench.
+val_Spatial_Reasoning_247,The dog is on the chair.
+val_Spatial_Reasoning_248,The train is on the laptop.
+val_Spatial_Reasoning_249,The train is on top of the laptop.
+val_Spatial_Reasoning_250,The refrigerator is at the back of the bench.
+val_Spatial_Reasoning_251,The chair is below the horse.
+val_Spatial_Reasoning_252,The dog is facing the horse.
+val_Spatial_Reasoning_253,The dog is under the chair.
+val_Spatial_Reasoning_254,The motorcycle contains the dog.
+val_Spatial_Reasoning_255,The bench is under the dog.
+val_Spatial_Reasoning_256,The laptop is facing the chair.
+val_Spatial_Reasoning_257,The dog is by the frisbee.
+val_Spatial_Reasoning_258,The chair is on the train.
+val_Spatial_Reasoning_259,The dog is below the motorcycle.
+val_Spatial_Reasoning_260,The dog is touching the laptop.
+val_Spatial_Reasoning_261,The bench is touching the handbag.
+val_Spatial_Reasoning_262,The laptop is next to the refrigerator.
+val_Spatial_Reasoning_263,The train is beyond the bench.
+val_Spatial_Reasoning_264,The laptop is left of the dog.
+val_Spatial_Reasoning_265,The motorcycle is in front of the dog.
+val_Spatial_Reasoning_266,The dog is at the right side of the motorcycle.
+val_Spatial_Reasoning_267,The bench is touching the laptop.
+val_Spatial_Reasoning_268,The dog is at the right side of the laptop.
+val_Spatial_Reasoning_269,The laptop is beside the train.
+val_Spatial_Reasoning_270,The bench is over the dog.
+val_Spatial_Reasoning_271,The chair is behind the laptop.
+val_Spatial_Reasoning_272,The train is behind the motorcycle.
+val_Spatial_Reasoning_273,The bench is close to the laptop.
+val_Spatial_Reasoning_274,The dog is on the chair.
+val_Spatial_Reasoning_275,The motorcycle is under the dog.
+val_Spatial_Reasoning_276,The chair is under the horse.
+val_Spatial_Reasoning_277,The train is on the laptop.
+val_Spatial_Reasoning_278,The dog is facing the wine glass.
+val_Spatial_Reasoning_279,The laptop is at the edge of the bench.
+val_Spatial_Reasoning_280,The train is beyond the bench.
+val_Spatial_Reasoning_281,The bench is surrounding the horse.
+val_Spatial_Reasoning_282,The bench is in front of the train.
+val_Spatial_Reasoning_283,The train contains the laptop.
+val_Spatial_Reasoning_284,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_285,The laptop is in the train.
+val_Spatial_Reasoning_286,The chair is behind the laptop.
+val_Spatial_Reasoning_287,The dog is at the left side of the motorcycle.
+val_Spatial_Reasoning_288,The dog is on the chair.
+val_Spatial_Reasoning_289,The laptop is next to the dog.
+val_Spatial_Reasoning_290,The laptop is facing the chair.
+val_Spatial_Reasoning_291,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_292,The chair is behind the horse.
+val_Spatial_Reasoning_293,The dog is at the left side of the horse.
+val_Spatial_Reasoning_294,The dog is on top of the motorcycle.
+val_Spatial_Reasoning_295,The motorcycle is behind the dog.
+val_Spatial_Reasoning_296,The chair is touching the handbag.
+val_Spatial_Reasoning_297,The chair is behind the horse.
+val_Spatial_Reasoning_298,The dog is under the chair.
+val_Spatial_Reasoning_299,The motorcycle is under the dog.
+val_Spatial_Reasoning_300,The dog is close to the laptop.
+val_Spatial_Reasoning_301,The dog is next to the laptop.
+val_Spatial_Reasoning_302,The dog is behind the bench.
+val_Spatial_Reasoning_303,The refrigerator is at the back of the bench.
+val_Spatial_Reasoning_304,The dog is above the bench.
+val_Spatial_Reasoning_305,The refrigerator is behind the dog.
+val_Spatial_Reasoning_306,The laptop is in the train.
+val_Spatial_Reasoning_307,The dog is on the chair.
+val_Spatial_Reasoning_308,The laptop is on the bench.
+val_Spatial_Reasoning_309,The train is away from the chair.
+val_Spatial_Reasoning_310,The train is next to the laptop.
+val_Spatial_Reasoning_311,The dog is on the chair.
+val_Spatial_Reasoning_312,The refrigerator contains the dog.
+val_Spatial_Reasoning_313,The chair is against the train.
+val_Spatial_Reasoning_314,The dog is out of the chair.
+val_Spatial_Reasoning_315,The bench is touching the handbag.
+val_Spatial_Reasoning_316,The chair is under the horse.
+val_Spatial_Reasoning_317,The dog is on the motorcycle.
+val_Spatial_Reasoning_318,The chair is at the right side of the dog.
+val_Spatial_Reasoning_319,The dog is in the middle of the chair.
+val_Spatial_Reasoning_320,The skateboard is in front of the dog.
+val_Spatial_Reasoning_321,The bench is in front of the refrigerator.
+val_Spatial_Reasoning_322,The motorcycle is behind the dog.
+val_Spatial_Reasoning_323,The motorcycle is at the left side of the train.
+val_Spatial_Reasoning_324,The dog is above the motorcycle.
+val_Spatial_Reasoning_325,The chair is above the dog.
+val_Spatial_Reasoning_326,The motorcycle is ahead of the train.
+val_Spatial_Reasoning_327,The dog is touching the laptop.
+val_Spatial_Reasoning_328,The dog is at the right side of the horse.
+val_Spatial_Reasoning_329,The dog is on the chair.
+val_Spatial_Reasoning_330,The bench is at the right side of the train.
+val_Spatial_Reasoning_331,The laptop is on top of the handbag.
+val_Spatial_Reasoning_332,The laptop is touching the bench.
+val_Spatial_Reasoning_333,The train contains the chair.
+val_Spatial_Reasoning_334,The refrigerator is behind the bench.
+val_Spatial_Reasoning_335,The train contains the chair.
+val_Spatial_Reasoning_336,The dog is in the middle of the chair.
+val_Spatial_Reasoning_337,The motorcycle is behind the dog.
+val_Spatial_Reasoning_338,The chair is behind the horse.
+val_Spatial_Reasoning_339,The chair is under the dog.
+val_Spatial_Reasoning_340,The dog is at the right side of the laptop.

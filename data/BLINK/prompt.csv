@@ -1,0 +1,144 @@
+idx,prompt
+val_Spatial_Relation_1,Is the car beneath the cat? Select from the following choices.(A) yes (B) no
+val_Spatial_Relation_2,Is the car under the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_3,Is the bed at the right side of the dining table? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_4,Is the bowl in front of the apple? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_5,Is the person on top of the bed? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_6,Is the bicycle on the bus? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_7,Is the person next to the banana? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_8,Is the person touching the kite? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_9,Is the hair drier left of the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_10,Is the laptop touching the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_11,Is the person on top of the elephant? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_12,Does the suitcase contain the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_13,Is the cat touching the wine glass? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_14,Is the person touching the donut? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_15,Is the vase behind the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_16,Is the bus parallel to the motorcycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_17,Is the dog on the motorcycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_18,Is the dining table in front of the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_19,Is the laptop facing the chair? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_20,Is the laptop touching the teddy bear? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_21,Is the dining table under the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_22,Is the pizza touching the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_23,Is the umbrella on top of the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_24,Is the cat surrounding the teddy bear? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_25,Is the sheep outside the bottle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_26,Is the motorcycle at the left side of the train? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_27,Is the truck inside the dog? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_28,Is the person facing away from the horse? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_29,Is the cat facing the teddy bear? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_30,Does the car contain the donut? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_31,Is the airplane far away from the bicycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_32,Is the surfboard left of the bed? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_33,Is the car alongside the bus? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_34,Is the horse far away from the potted plant? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_35,Is the car away from the truck? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_36,Is the boat in the tv? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_37,Is the person facing the book? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_38,Is the bowl on top of the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_39,Is the bench right of the bed? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_40,Is the laptop at the right side of the sandwich? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_41,Is the orange at the right side of the umbrella? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_42,Is the cat on the chair? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_43,Is the cat in the sink? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_44,Is the refrigerator behind the dining table? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_45,Does the cake consist of the truck? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_46,Is the dog on the motorcycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_47,Is the microwave above the laptop? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_48,Is the broccoli beside the bowl? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_49,Is the dog on top of the motorcycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_50,Is the sandwich at the left side of the laptop? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_51,Is the car at the back of the bicycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_52,Is the train far away from the stop sign? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_53,Is the orange behind the apple? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_54,Is the teddy bear beside the bottle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_55,Is the potted plant behind the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_56,Does the cup contain the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_57,Is the oven behind the cake? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_58,Is the cat on the backpack? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_59,Is the teddy bear on top of the dining table? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_60,Is the sandwich touching the dining table? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_61,Is the person left of the refrigerator? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_62,Is the boat on the truck? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_63,Is the teddy bear facing the book? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_64,Is the hair drier on the chair? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_65,Is the hot dog far away from the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_66,Is the umbrella behind the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_67,Is the bicycle under the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_68,Is the person facing the bear? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_69,Does the sink contain the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_70,Does the car contain the dog? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_71,Is the laptop opposite to the couch? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_72,Is the cup under the cow? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_73,Is the surfboard beside the dining table? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_74,Is the fire hydrant touching the teddy bear? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_75,Is the person touching the zebra? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_76,Is the cat facing away from the toilet? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_77,Is the laptop a part of the cake? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_78,Is the backpack on top of the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_79,Is the sandwich inside the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_80,Is the bicycle in the train? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_81,Is the person touching the pizza? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_82,Is the sandwich touching the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_83,Is the cat next to the bed? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_84,Is the truck below the boat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_85,Is the truck in front of the boat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_86,Is the person at the left side of the bed? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_87,Is the truck over the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_88,Is the cup at the left side of the bowl? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_89,Is the dining table beneath the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_90,Is the cat with the teddy bear? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_91,Is the teddy bear touching the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_92,Is the tv under the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_93,Is the cat at the left side of the pizza? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_94,Does the backpack contain the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_95,Is the cat on top of the handbag? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_96,Is the donut inside the bowl? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_97,Is the cup beside the laptop? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_98,Is the horse on the cake? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_99,Is the bicycle in front of the umbrella? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_100,Is the car perpendicular to the motorcycle? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_101,Is the chair under the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_102,Is the couch under the suitcase? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_103,Is the dog touching the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_104,Is the pizza left of the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_105,Is the couch under the truck? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_106,Is the laptop touching the bed? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_107,Is the bed beside the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_108,Is the dining table touching the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_109,Is the sandwich touching the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_110,Is the boat on the tv? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_111,Is the dining table at the right side of the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_112,Is the bed under the suitcase? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_113,Is the dining table touching the donut? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_114,Is the teddy bear under the dog? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_115,Is the chair under the horse? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_116,Is the person below the hair drier? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_117,Is the refrigerator far from the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_118,Is the dog on the left side of the car? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_119,Is the cat facing the keyboard? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_120,Is the bed touching the book? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_121,Is the dining table away from the potted plant? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_122,Is the bench at the left side of the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_123,Is the bed beneath the dog? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_124,Is the person at the right side of the laptop? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_125,Is the person beneath the remote? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_126,Does the oven contain the pizza? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_127,Is the truck far away from the suitcase? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_128,Is the donut on the dining table? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_129,Is the bowl over the sandwich? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_130,Is the cat facing away from the suitcase? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_131,Is the suitcase beside the cat? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_132,Is the cat facing the refrigerator? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_133,Is the banana behind the orange? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_134,Is the car under the dog? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_135,Is the couch at the right side of the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_136,Is the teddy bear on top of the cake? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_137,Is the apple above the orange? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_138,Is the bear touching the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_139,Is the dining table touching the dog? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_140,Is the zebra by the person? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_141,Is the person facing the frisbee? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_142,Is the cat on top of the laptop? Select from the following choices. (A) yes (B) no
+val_Spatial_Relation_143,Is the person behind the cup? Select from the following choices. (A) yes (B) no
