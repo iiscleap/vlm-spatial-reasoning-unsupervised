@@ -1,0 +1,7 @@
+Q1. Is there a bed in the image?
+Q2. Is there a person in the image?
+Q3. What is the position of the bed in the image?
+Q4. What is the position of the person in the image?
+Q5. Are the bed and the person in the same general area of the image?
+Q6. Is the bed located to the side of the person in the image?
+Q7. Is the bed beside the person? (A) yes (B) no

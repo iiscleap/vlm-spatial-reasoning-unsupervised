@@ -1,0 +1,7 @@
+Q1. Are there any apples in the image?
+Q2. Are there any oranges in the image?
+Q3. Where is the apple in the image?
+Q4. Where is the orange in the image?
+Q5. Where is the apple with respect to the orange in the image?
+Q6. Is the apple situated above the orange in the image?
+Q7. Is the apple above the orange? (A) yes (B) no

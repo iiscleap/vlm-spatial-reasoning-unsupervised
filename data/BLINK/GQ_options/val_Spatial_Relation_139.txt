@@ -1,0 +1,19 @@
+Q1. Is there a dining table in the image?
+Q2. Is there a dog in the image?
+Q3. What is the shape of the dining table?
+Q4. What is the shape of the dog?
+Q5. Are the edges of the dining table and the dog coincident?
+Q6. Is the dining table in contact with the dog?
+Q7. Is the dining table touching the dog?
+Q8. Is the surface of the dining table in contact with the surface of the dog?
+Q9. Is the dining table adjacent to the dog?
+Q10. Are the dining table and the dog in physical contact?
+Q11. Is the dining table making contact with the dog?
+Q12. Does the dining table have any part in contact with the dog?
+Q13. Is there any part of the dining table that is touching the dog?
+Q14. Is the dining table in direct contact with the dog?
+Q15. Is the dining table making physical contact with the dog?
+Q16. Does the dining table have any point of contact with the dog?
+Q17. Is the dining table in contact with the dog's body?
+Q18. Is the dining table in contact with the dog's surface?
+Q19. Is the dining table touching the dog? (A) yes (B) no

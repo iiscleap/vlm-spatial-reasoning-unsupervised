@@ -1,0 +1,7 @@
+Q1. Is a sandwich present in the image?
+Q2. Is a person present in the image?
+Q3. What is the position of the sandwich in the image?
+Q4. What is the position of the person in the image?
+Q5. Is the sandwich in physical contact with the person in the image?
+Q6. Is the sandwich touching the person in the image?
+Q7. Is the sandwich in contact with the person? (A) yes (B) no

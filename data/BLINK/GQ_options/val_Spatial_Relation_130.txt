@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a suitcase in the image?
+Q3. Which direction is the cat facing in the image?
+Q4. Which direction is the suitcase facing in the image?
+Q5. Is the cat facing away from the suitcase in the image?
+Q6. Is the cat's back towards the suitcase in the image?
+Q7. Is the cat facing away from the suitcase? (A) yes (B) no

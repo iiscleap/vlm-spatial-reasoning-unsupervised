@@ -1,0 +1,7 @@
+Q1. Is there a teddy bear in the image?
+Q2. Is there a dog in the image?
+Q3. Where is the teddy bear in the image?
+Q4. Where is the dog in the image?
+Q5. Where is the teddy bear with respect to the dog in the image?
+Q6. Is the teddy bear situated below the dog in the image?
+Q7. Is the teddy bear under the dog? (A) yes (B) no

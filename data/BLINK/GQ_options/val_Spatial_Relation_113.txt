@@ -1,0 +1,7 @@
+Q1. Is there a dining table in the image?
+Q2. Is there a donut in the image?
+Q3. What are the dimensions of the dining table?
+Q4. What are the dimensions of the donut?
+Q5. Are the edges of the dining table and the donut in contact?
+Q6. Is the surface area of the dining table touching the surface area of the donut?
+Q7. Is the dining table touching the donut? (A) yes (B) no

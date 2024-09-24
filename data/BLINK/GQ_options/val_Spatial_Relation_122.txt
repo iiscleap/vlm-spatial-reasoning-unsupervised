@@ -1,0 +1,7 @@
+Q1. Is there a bench in the image?
+Q2. Is there a cat in the image?
+Q3. Where is the bench in the image?
+Q4. Where is the cat in the image?
+Q5. Is the bench located on the left side of the cat in the image?
+Q6. Is the left side of the cat occupied by the bench?
+Q7. Is the bench at the left side of the cat? (A) yes (B) no

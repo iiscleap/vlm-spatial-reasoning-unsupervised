@@ -1,0 +1,11 @@
+Q1. Is there a boat in the image?
+Q2. Is there a TV in the image?
+Q3. What is the TV being used for in the image?
+Q4. Is the TV showing a picture of a boat?
+Q5. Is the boat physically on top of the TV?
+Q6. Is the boat resting on the TV?
+Q7. Is the boat sitting on the TV?
+Q8. Is the boat on the TV screen?
+Q9. Is the boat displayed on the TV?
+Q10. Is the boat being shown on the TV?
+Q11. Is the boat on the TV? (A) yes (B) no

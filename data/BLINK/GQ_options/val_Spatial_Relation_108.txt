@@ -1,0 +1,7 @@
+Q1. Is there a dining table in the image?
+Q2. Is there a cat in the image?
+Q3. Is the dining table in physical contact with the cat in the image?
+Q4. Is the dining table touching the cat in the image?
+Q5. Is the cat touching the dining table in the image?
+Q6. Is the dining table in close proximity to the cat in the image?
+Q7. Is the dining table in contact with the cat? Select from the following choices. (A) yes (B) no

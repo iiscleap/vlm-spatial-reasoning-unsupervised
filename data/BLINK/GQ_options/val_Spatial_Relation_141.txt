@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a frisbee in the image?
+Q3. Is the person looking at the frisbee?
+Q4. Is the person's face directed towards the frisbee?
+Q5. Is the person's body oriented towards the frisbee?
+Q6. Is the person facing the direction of the frisbee?
+Q7. Is the person facing the frisbee? (A) yes (B) no

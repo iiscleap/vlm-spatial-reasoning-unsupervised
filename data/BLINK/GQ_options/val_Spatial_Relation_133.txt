@@ -1,0 +1,6 @@
+Q1. Is there a banana in the image?
+Q2. Is there an orange in the image?
+Q3. Where is the banana in the image?
+Q4. Where is the orange in the image?
+Q5. Where is the banana with respect to the orange in the image?
+Q6. Is the banana situated behind the orange in the image? (A) yes (B) no

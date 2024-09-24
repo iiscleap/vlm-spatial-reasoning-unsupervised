@@ -1,0 +1,7 @@
+Q1. Is there a teddy bear in the image?
+Q2. Is there a cake in the image?
+Q3. Where is the teddy bear in the image?
+Q4. Where is the cake in the image?
+Q5. Where is the teddy bear with respect to the cake in the image?
+Q6. Is the teddy bear situated above the cake in the image?
+Q7. Is the teddy bear on top of the cake? (A) yes (B) no

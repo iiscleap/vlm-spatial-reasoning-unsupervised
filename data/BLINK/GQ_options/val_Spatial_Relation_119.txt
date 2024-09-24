@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a keyboard in the image?
+Q3. What direction is the cat facing in the image?
+Q4. What direction is the keyboard facing in the image?
+Q5. Are the cat and keyboard in the same orientation in the image?
+Q6. Is the cat's face oriented towards the keyboard?
+Q7. Is the cat facing the keyboard? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a cup in the image?
+Q3. Where is the person in the image?
+Q4. Where is the cup in the image?
+Q5. Where is the person with respect to the cup in the image?
+Q6. Is the person situated behind the cup in the image?
+Q7. Is the person behind the cup? (A) yes (B) no

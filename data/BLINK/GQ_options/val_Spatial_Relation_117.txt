@@ -1,0 +1,7 @@
+Q1. Is there a refrigerator in the image?
+Q2. Is there a cat in the image?
+Q3. What is the distance between the refrigerator and the cat in the image?
+Q4. Is the distance between the refrigerator and the cat large?
+Q5. Is the refrigerator situated at a considerable distance from the cat?
+Q6. Is the refrigerator far from the cat?
+Q7. Is the refrigerator distant from the cat? (A) yes (B) no

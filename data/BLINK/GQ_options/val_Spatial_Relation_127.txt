@@ -1,0 +1,20 @@
+Q1. Is there a truck in the image?
+Q2. Is there a suitcase in the image?
+Q3. What is the relative distance of the truck from the suitcase in the image?
+Q4. Is the truck located at a considerable distance from the suitcase?
+Q5. Is the truck far away from the suitcase?
+Q6. Is the truck situated at a great distance from the suitcase?
+Q7. Is the truck distant from the suitcase?
+Q8. Is the truck far away from the suitcase?
+Q9. Is the truck located far from the suitcase?
+Q10. Is the truck at a considerable distance from the suitcase?
+Q11. Is the truck situated at a distance from the suitcase?
+Q12. Is the truck far away from the suitcase?
+Q13. Is the truck distant from the suitcase?
+Q14. Is the truck far away from the suitcase?
+Q15. Is the truck located far away from the suitcase?
+Q16. Is the truck at a distance from the suitcase?
+Q17. Is the truck far away from the suitcase?
+Q18. Is the truck distant from the suitcase?
+Q19. Is the truck far away from the suitcase? (A) yes (B) no
+

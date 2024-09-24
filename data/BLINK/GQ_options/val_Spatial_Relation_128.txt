@@ -1,0 +1,7 @@
+Q1. Is there a donut in the image?
+Q2. Is there a dining table in the image?
+Q3. Where is the donut in the image?
+Q4. Where is the dining table in the image?
+Q5. Is the dining table in the image where the donut is located?
+Q6. Is the donut situated on the dining table in the image?
+Q7. Is the donut on the dining table? (A) yes (B) no

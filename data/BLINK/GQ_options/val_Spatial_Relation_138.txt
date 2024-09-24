@@ -1,0 +1,7 @@
+Q1. Is there a bear in the image?
+Q2. Is there a person in the image?
+Q3. Are the bear and person in physical contact?
+Q4. Is the bear's body part touching the person's body?
+Q5. Is the person's body part touching the bear's body?
+Q6. Is any part of the bear's body in contact with the person's body?
+Q7. Is the bear touching the person? (A) yes (B) no

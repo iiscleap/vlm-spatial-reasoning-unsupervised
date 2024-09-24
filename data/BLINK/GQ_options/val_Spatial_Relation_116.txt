@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a hair drier in the image?
+Q3. Where is the person in the image?
+Q4. Where is the hair drier in the image?
+Q5. Where is the person with respect to the hair drier in the image?
+Q6. Is the person situated below the hair drier in the image? (A) yes (B) no
+Q7. Is the person below the hair drier? Select from the following choices. (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a bed in the image?
+Q2. Is there a book in the image?
+Q3. What is the location of the bed in the image?
+Q4. What is the location of the book in the image?
+Q5. Are the edges of the bed and the book in contact with each other in the image?
+Q6. Is the bed physically touching the book in the image?
+Q7. Is the bed touching the book? (A) yes (B) no

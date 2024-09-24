@@ -1,0 +1,7 @@
+Q1. Is there an oven in the image?
+Q2. Is there a pizza in the image?
+Q3. Is the pizza located inside the oven?
+Q4. Is the pizza contained within the oven?
+Q5. Does the oven enclose the pizza?
+Q6. Is the pizza completely inside the oven?
+Q7. Does the oven contain the pizza? (A) yes (B) no

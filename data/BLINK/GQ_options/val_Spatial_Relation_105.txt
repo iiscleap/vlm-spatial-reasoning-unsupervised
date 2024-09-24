@@ -1,0 +1,7 @@
+Q1. Is there a couch in the image?
+Q2. Is there a truck in the image?
+Q3. Where is the couch in the image?
+Q4. Where is the truck in the image?
+Q5. Where is the couch with respect to the truck in the image?
+Q6. Is the couch situated below the truck in the image?
+Q7. Is the couch under the truck? (A) yes (B) no

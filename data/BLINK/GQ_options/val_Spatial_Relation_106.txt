@@ -1,0 +1,7 @@
+Q1. Is a laptop present in the image?
+Q2. Is a bed present in the image?
+Q3. What is the position of the laptop in the image?
+Q4. What is the position of the bed in the image?
+Q5. Is the laptop in physical contact with the bed in the image?
+Q6. Is the laptop touching the bed in the image? (A) yes (B) no 
+Q7. Is the laptop in contact with the bed? (A) yes (B) no

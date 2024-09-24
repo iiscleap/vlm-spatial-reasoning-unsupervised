@@ -1,0 +1,7 @@
+Q1. Is there a dining table in the image?
+Q2. Is there a potted plant in the image?
+Q3. Is there a clear boundary between the dining table and the potted plant?
+Q4. Is the dining table and the potted plant in the same spatial location?
+Q5. Is the dining table physically separated from the potted plant?
+Q6. Is the dining table at a distance from the potted plant?
+Q7. Is the dining table away from the potted plant? (A) yes (B) no

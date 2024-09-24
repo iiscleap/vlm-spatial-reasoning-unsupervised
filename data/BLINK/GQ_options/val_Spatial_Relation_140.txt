@@ -1,0 +1,7 @@
+Q1. Is there a zebra in the image?
+Q2. Is there a person in the image?
+Q3. Where is the zebra in the image?
+Q4. Where is the person in the image?
+Q5. Where is the zebra with respect to the person in the image?
+Q6. Is the zebra situated next to the person in the image?
+Q7. Is the zebra by the person? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a dog in the image?
+Q2. Is there a cat in the image?
+Q3. Are the dog and cat in physical contact with each other in the image?
+Q4. Is the dog's body part touching the cat's body in the image?
+Q5. Is the dog's body part touching the cat's body in a way that indicates contact in the image?
+Q6. Is the dog's body part in contact with the cat's body in the image?
+Q7. Is the dog touching the cat? (A) yes (B) no

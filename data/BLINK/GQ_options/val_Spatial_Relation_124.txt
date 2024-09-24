@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a laptop in the image?
+Q3. Where is the person in the image?
+Q4. Where is the laptop in the image?
+Q5. Where is the person with respect to the laptop in the image?
+Q6. Is the person situated to the right of the laptop in the image?
+Q7. Is the person at the right side of the laptop? (A) yes (B) no

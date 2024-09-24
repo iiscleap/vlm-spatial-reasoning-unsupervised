@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a refrigerator in the image?
+Q3. What direction is the cat's face in the image?
+Q4. What direction is the refrigerator in the image?
+Q5. Is the cat's face aligned with the refrigerator's direction in the image?
+Q6. Is the cat's face directly towards the refrigerator in the image?
+Q7. Is the cat facing the refrigerator? (A) yes (B) no

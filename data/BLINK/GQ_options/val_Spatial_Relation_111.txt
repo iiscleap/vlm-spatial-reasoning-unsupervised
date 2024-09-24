@@ -1,0 +1,14 @@
+Q1. Is there a dining table in the image? 
+Q2. Is there a person in the image? 
+Q3. Is there a right side in the image? 
+Q4. Is the dining table on the right side of the person in the image? 
+Q5. Is the dining table situated to the right of the person in the image? 
+Q6. Is the right side of the dining table aligned with the person in the image? 
+Q7. Is the dining table at the right side of the person? 
+Q8. Is the person and the dining table positioned such that the right side of the table is adjacent to the person? 
+Q9. Does the right side of the dining table coincide with the right side of the person? 
+Q10. Is the dining table located to the right of the person? 
+Q11. Is the person and the dining table aligned such that the right side of the table is on the right side of the person? 
+Q12. Is the right side of the dining table positioned on the right side of the person? 
+Q13. Is the dining table positioned at the right side of the person in the image? 
+Q14. Is the dining table at the right side of the person? (A) yes (B) no
