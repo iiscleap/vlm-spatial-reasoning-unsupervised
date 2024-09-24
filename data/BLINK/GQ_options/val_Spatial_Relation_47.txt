@@ -1,0 +1,6 @@
+Q1. Is there a microwave in the image?
+Q2. Is there a laptop in the image?
+Q3. Where is the microwave in the image?
+Q4. Where is the laptop in the image?
+Q5. Where is the microwave with respect to the laptop in the image?
+Q6. Is the microwave situated above the laptop in the image? (A) yes (B) no

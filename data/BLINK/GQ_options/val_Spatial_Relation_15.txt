@@ -1,0 +1,7 @@
+Q1. Is there a vase in the image?
+Q2. Is there a cat in the image?
+Q3. Where is the vase in the image?
+Q4. Where is the cat in the image?
+Q5. Where is the vase with respect to the cat in the image?
+Q6. Is the vase situated behind the cat in the image?
+Q7. Is the vase behind the cat? (A) yes (B) no

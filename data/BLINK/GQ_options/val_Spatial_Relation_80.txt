@@ -1,0 +1,7 @@
+Q1. Is there a bicycle in the image?
+Q2. Is there a train in the image?
+Q3. Where is the bicycle in the image?
+Q4. Where is the train in the image?
+Q5. Where is the bicycle with respect to the train in the image?
+Q6. Is the bicycle situated inside the train in the image?
+Q7. Is the bicycle in the train? (A) yes (B) no

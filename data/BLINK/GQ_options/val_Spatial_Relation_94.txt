@@ -1,0 +1,7 @@
+Q1. Is there a backpack in the image?
+Q2. Is there a cat in the image?
+Q3. Does the backpack have an opening or is it open?
+Q4. Is the cat inside the backpack?
+Q5. Is the backpack closed?
+Q6. Is the cat completely inside the backpack?
+Q7. Does the backpack contain the cat? Select from the following choices. (A) yes (B) no

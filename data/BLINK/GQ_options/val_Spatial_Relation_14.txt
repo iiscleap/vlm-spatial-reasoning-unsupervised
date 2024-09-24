@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a donut in the image?
+Q3. Is the person's body part in contact with the donut?
+Q4. Is the person's hand touching the donut?
+Q5. Is any part of the person's body touching the donut?
+Q6. Is the donut in physical contact with the person's hand?
+Q7. Is the person touching the donut? (A) yes (B) no

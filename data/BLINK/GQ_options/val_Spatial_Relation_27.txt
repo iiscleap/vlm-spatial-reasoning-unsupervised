@@ -1,0 +1,7 @@
+Q1. Is there a truck in the image? 
+Q2. Is there a dog in the image? 
+Q3. What is the spatial relationship between the truck and the dog in the image? 
+Q4. Is the truck completely enclosed within the boundaries of the dog in the image? 
+Q5. Is the truck situated inside the dog's body in the image? 
+Q6. Is the truck contained entirely within the dog's physical presence in the image? 
+Q7. Is the truck inside the dog? Select from the following choices. (A) yes (B) no

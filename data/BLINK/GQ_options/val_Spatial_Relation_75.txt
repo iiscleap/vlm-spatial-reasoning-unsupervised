@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a zebra in the image?
+Q3. Is the person's hand in contact with the zebra?
+Q4. Is the person's body in contact with the zebra?
+Q5. Is there any part of the person in contact with the zebra?
+Q6. Is the person physically interacting with the zebra?
+Q7. Is the person touching the zebra? (A) yes (B) no

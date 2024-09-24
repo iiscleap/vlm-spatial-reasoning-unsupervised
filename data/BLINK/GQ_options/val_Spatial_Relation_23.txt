@@ -1,0 +1,6 @@
+Q1. Is there an umbrella in the image? 
+Q2. Is there a cat in the image? 
+Q3. Where is the umbrella in the image? 
+Q4. Where is the cat in the image? 
+Q5. Where is the umbrella with respect to the cat in the image? 
+Q6. Is the umbrella on top of the cat? (A) yes (B) no

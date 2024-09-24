@@ -1,0 +1,7 @@
+Q1. Is there a surfboard in the image?
+Q2. Is there a dining table in the image?
+Q3. What is the location of the surfboard in the image?
+Q4. What is the location of the dining table in the image?
+Q5. Is the surfboard located near the dining table in the image?
+Q6. Is the surfboard situated adjacent to the dining table in the image?
+Q7. Is the surfboard beside the dining table? (A) yes (B) no

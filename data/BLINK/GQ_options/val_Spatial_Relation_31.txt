@@ -1,0 +1,7 @@
+Q1. Is there an airplane in the image?
+Q2. Is there a bicycle in the image?
+Q3. How far is the airplane from the bicycle in the image?
+Q4. What is the distance between the airplane and the bicycle in the image?
+Q5. Is the airplane positioned at a significant distance from the bicycle?
+Q6. Is the airplane located at a considerable distance from the bicycle?
+Q7. Is the airplane far away from the bicycle? (A) yes (B) no

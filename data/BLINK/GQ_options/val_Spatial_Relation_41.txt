@@ -1,0 +1,7 @@
+Q1. Is there an orange in the image?
+Q2. Is there an umbrella in the image?
+Q3. What is the position of the orange in the image?
+Q4. What is the position of the umbrella in the image?
+Q5. Is the orange located on the right side of the umbrella in the image?
+Q6. Is the orange situated to the right of the umbrella?
+Q7. Is the orange at the right side of the umbrella? (A) yes (B) no

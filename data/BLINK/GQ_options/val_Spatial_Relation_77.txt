@@ -1,0 +1,8 @@
+Q1. Is a laptop visible in the image?
+Q2. Is a cake visible in the image?
+Q3. What objects are depicted in the image?
+Q4. Are the objects in the image edible?
+Q5. Is the laptop shown as being integrated into the cake?
+Q6. Is the laptop physically attached to the cake?
+Q7. Is the laptop a component of the cake?
+Q8. Is the laptop a part of the cake? (A) yes (B) no

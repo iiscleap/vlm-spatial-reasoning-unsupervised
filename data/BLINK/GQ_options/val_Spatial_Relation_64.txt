@@ -1,0 +1,7 @@
+Q1. Is there a hair drier in the image?
+Q2. Is there a chair in the image?
+Q3. Where is the hair drier in the image?
+Q4. Where is the chair in the image?
+Q5. Where is the hair drier with respect to the chair in the image?
+Q6. Is the hair drier placed on the chair in the image?
+Q7. Is the hair drier on the chair? (A) yes (B) no

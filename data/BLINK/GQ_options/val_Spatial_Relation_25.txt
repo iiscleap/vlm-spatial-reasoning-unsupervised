@@ -1,0 +1,7 @@
+Q1. Is there a sheep in the image?
+Q2. Is there a bottle in the image?
+Q3. Where is the sheep in the image?
+Q4. Where is the bottle in the image?
+Q5. Is the sheep situated outside the bottle in the image?
+Q6. Is the bottle completely enclosing the sheep in the image?
+Q7. Is the sheep outside the bottle? (A) yes (B) no

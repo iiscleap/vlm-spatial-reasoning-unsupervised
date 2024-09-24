@@ -1,0 +1,7 @@
+Q1. Is there a teddy bear in the image?
+Q2. Is there a book in the image?
+Q3. Is the teddy bear in the image?
+Q4. Is the book in the image?
+Q5. Is the teddy bear positioned to look at the book?
+Q6. Is the teddy bear facing the book in the image? 
+Q7. Is the teddy bear facing the book? (A) yes (B) no

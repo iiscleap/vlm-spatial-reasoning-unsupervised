@@ -1,0 +1,21 @@
+Q1. Is there a person in the image?
+Q2. Is there a book in the image?
+Q3. Is the person looking at the book?
+Q4. Is the book facing the person?
+Q5. Is the person's face directed towards the book?
+Q6. Is the book positioned in front of the person?
+Q7. Is the person facing the book?
+Q8. Is the person's back turned to the book?
+Q9. Is the person looking away from the book?
+Q10. Is the book situated in front of the person?
+Q11. Is the person oriented towards the book?
+Q12. Is the person's body directed towards the book?
+Q13. Is the book positioned directly in front of the person?
+Q14. Is the person facing the book?
+Q15. Is the person's front side towards the book?
+Q16. Is the person turned towards the book?
+Q17. Is the person oriented in the direction of the book?
+Q18. Is the person's body angled towards the book?
+Q19. Is the book situated in the person's line of sight?
+Q20. Is the person's gaze directed towards the book?
+Q21. Is the person facing the book? (A) yes (B) no

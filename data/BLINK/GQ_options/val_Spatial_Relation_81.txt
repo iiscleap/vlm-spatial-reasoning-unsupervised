@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a pizza in the image?
+Q3. Is there any contact between the person and the pizza in the image?
+Q4. Is the person's body part touching the pizza in the image?
+Q5. Is the pizza's surface in contact with the person's body in the image?
+Q6. Is the person physically connected to the pizza in the image?
+Q7. Is the person touching the pizza? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is a laptop present in the image?
+Q2. Is a person present in the image?
+Q3. Is the laptop in physical contact with the person?
+Q4. Is the person's hand on the laptop?
+Q5. Is the laptop's surface in contact with the person's body?
+Q6. Is the laptop touching the person's clothing?
+Q7. Is the laptop in contact with the person? (A) yes (B) no

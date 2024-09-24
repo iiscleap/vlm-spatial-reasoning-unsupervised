@@ -1,0 +1,7 @@
+Q1. Is there a laptop in the image?
+Q2. Is there a sandwich in the image?
+Q3. Where is the laptop in the image?
+Q4. Where is the sandwich in the image?
+Q5. Is the laptop located to the right of the sandwich in the image?
+Q6. Is the laptop situated on the right-hand side of the sandwich?
+Q7. Is the laptop at the right side of the sandwich? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there broccoli in the image? 
+Q2. Is there a bowl in the image? 
+Q3. Where is the broccoli in the image? 
+Q4. Where is the bowl in the image? 
+Q5. Where is the broccoli with respect to the bowl in the image? 
+Q6. Is the broccoli situated adjacent to the bowl in the image? 
+Q7. Is the broccoli beside the bowl? (A) yes (B) no

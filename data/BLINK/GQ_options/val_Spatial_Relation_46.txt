@@ -1,0 +1,7 @@
+Q1. Is there a dog in the image?
+Q2. Is there a motorcycle in the image?
+Q3. Is the dog on the motorcycle in the image?
+Q4. Is the motorcycle stationary in the image?
+Q5. Is the dog on top of the motorcycle in the image?
+Q6. Is the dog in a position to be riding the motorcycle in the image?
+Q7. Is the dog sitting on the motorcycle? (A) yes (B) no

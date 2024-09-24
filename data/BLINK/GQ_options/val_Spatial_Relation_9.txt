@@ -1,0 +1,7 @@
+Q1. Is a hair dryer in the image?
+Q2. Is a person in the image?
+Q3. What is the position of the hair dryer in the image?
+Q4. What is the position of the person in the image?
+Q5. Is the hair dryer situated to the left of the person in the image?
+Q6. Is the hair dryer positioned to the left of the person in the image? 
+Q7. Is the hair dryer left of the person? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a laptop in the image?
+Q2. Is there a couch in the image?
+Q3. What is the location of the laptop in the image?
+Q4. What is the location of the couch in the image?
+Q5. What is the relationship between the locations of the laptop and the couch?
+Q6. Is the laptop situated directly across from the couch in the image?
+Q7. Is the laptop opposite the couch? (A) yes (B) no

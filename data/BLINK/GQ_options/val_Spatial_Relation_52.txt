@@ -1,0 +1,7 @@
+Q1. Is there a train in the image?
+Q2. Is there a stop sign in the image?
+Q3. Where is the train in the image?
+Q4. Where is the stop sign in the image?
+Q5. How far is the train from the stop sign in the image?
+Q6. Is the distance between the train and the stop sign greater than a certain threshold?
+Q7. Is the train far away from the stop sign? (A) yes (B) no

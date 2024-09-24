@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a wine glass in the image?
+Q3. Is the cat physically in contact with the wine glass?
+Q4. Are the cat and wine glass overlapping in the image?
+Q5. Is the cat's body or any part of it touching the wine glass?
+Q6. Is the wine glass being held or supported by the cat?
+Q7. Is the cat touching the wine glass? (A) yes (B) no

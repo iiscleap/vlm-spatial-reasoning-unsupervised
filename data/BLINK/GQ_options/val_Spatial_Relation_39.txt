@@ -1,0 +1,7 @@
+Q1. Is there a bench in the image?
+Q2. Is there a bed in the image?
+Q3. Where is the bench in the image?
+Q4. Where is the bed in the image?
+Q5. Where is the bench with respect to the bed in the image?
+Q6. Is the bench situated to the right of the bed in the image? (A) yes (B) no
+Q7. Is the bench right of the bed? (A) yes (B) no

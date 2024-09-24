@@ -1,0 +1,8 @@
+Q1. Is there a cat in the image? 
+Q2. Is there a toilet in the image? 
+Q3. Is the cat's face visible in the image? 
+Q4. In which direction is the cat's face pointing in the image? 
+Q5. Is the toilet visible to the cat in the image? 
+Q6. Is the toilet situated directly in front of the cat in the image? 
+Q7. Is the cat facing away from the toilet? 
+Q8. Select from the following choices. (A) yes (B) no

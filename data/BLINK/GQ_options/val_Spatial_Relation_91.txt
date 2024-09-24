@@ -1,0 +1,6 @@
+Q1. Is there a teddy bear in the image?
+Q2. Is there a cat in the image?
+Q3. Is the teddy bear in physical contact with the cat?
+Q4. Are the teddy bear and the cat in close proximity to each other?
+Q5. Is the teddy bear making contact with the cat?
+Q6. Is the teddy bear touching the cat? (A) yes (B) no

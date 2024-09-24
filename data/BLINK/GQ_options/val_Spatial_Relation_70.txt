@@ -1,0 +1,6 @@
+Q1. Is there a car in the image?
+Q2. Is there a dog in the image?
+Q3. Is the car an enclosed space?
+Q4. Is the dog located within the car?
+Q5. Is the dog physically inside the car?
+Q6. Does the car contain the dog? (A) yes (B) no

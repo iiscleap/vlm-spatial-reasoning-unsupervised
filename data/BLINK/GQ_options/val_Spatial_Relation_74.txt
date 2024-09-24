@@ -1,0 +1,7 @@
+Q1. Is there a fire hydrant in the image?
+Q2. Is there a teddy bear in the image?
+Q3. Is there any object in the image that is touching the teddy bear?
+Q4. Is there any object in the image that is touching the fire hydrant?
+Q5. Are the fire hydrant and the teddy bear in physical contact with each other in the image?
+Q6. Is the fire hydrant and the teddy bear touching each other in the image?
+Q7. Is the fire hydrant touching the teddy bear? Select from the following choices. (A) yes (B) no

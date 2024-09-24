@@ -1,0 +1,7 @@
+Q1. Is there a dining table in the image?
+Q2. Is there a person in the image?
+Q3. Where is the dining table in the image?
+Q4. Where is the person in the image?
+Q5. Where is the dining table with respect to the person in the image?
+Q6. Is the dining table situated in front of the person in the image?
+Q7. Is the dining table in front of the person? (A) yes (B) no

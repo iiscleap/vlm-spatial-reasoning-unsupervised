@@ -1,0 +1,8 @@
+Q1. Is there a cup in the image?
+Q2. Is there a cat in the image?
+Q3. What is the cup in the image typically used for?
+Q4. What is the cat in the image?
+Q5. Is the cat in the image physically inside the cup?
+Q6. Does the cup contain the cat?
+Q7. Does the cup hold the cat?
+Q8. Is the cat inside the cup? (A) yes (B) no

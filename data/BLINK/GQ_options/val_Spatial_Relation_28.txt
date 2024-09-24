@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a horse in the image?
+Q3. What direction is the person facing in the image?
+Q4. What direction is the horse facing in the image?
+Q5. Is the person's direction of facing opposite to the horse's direction of facing in the image?
+Q6. Is the person's back towards the horse in the image?
+Q7. Is the person facing away from the horse? (A) yes (B) no

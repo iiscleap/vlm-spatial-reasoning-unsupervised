@@ -1,0 +1,7 @@
+Q1. Is there a donut in the image?
+Q2. Is there a bowl in the image?
+Q3. What is the donut in relation to the bowl?
+Q4. Is the donut partially or fully contained within the bowl?
+Q5. Is the donut's surface in contact with the bowl's interior surface?
+Q6. Is the donut positioned entirely within the bowl's boundaries?
+Q7. Is the donut inside the bowl? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a chair in the image?
+Q3. Where is the cat in the image?
+Q4. Where is the chair in the image?
+Q5. Is the cat in contact with the chair in the image?
+Q6. Is the cat sitting on the chair in the image?
+Q7. Is the cat on the chair? (A) yes (B) no

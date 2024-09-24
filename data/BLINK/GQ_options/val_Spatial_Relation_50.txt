@@ -1,0 +1,7 @@
+Q1. Is there a sandwich in the image?
+Q2. Is there a laptop in the image?
+Q3. Where is the sandwich in the image?
+Q4. Where is the laptop in the image?
+Q5. Where is the sandwich with respect to the laptop in the image?
+Q6. Is the sandwich situated to the left of the laptop in the image? 
+Q7. Is the sandwich at the left side of the laptop? Select from the following choices. (A) yes (B) no

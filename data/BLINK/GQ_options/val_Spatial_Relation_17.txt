@@ -1,0 +1,7 @@
+Q1. Is there a dog in the image?
+Q2. Is there a motorcycle in the image?
+Q3. Where is the dog in the image?
+Q4. Where is the motorcycle in the image?
+Q5. Is the dog located on the motorcycle in the image?
+Q6. Is the dog sitting on the motorcycle in the image?
+Q7. Is the dog on the motorcycle? Select from the following choices. (A) yes (B) no

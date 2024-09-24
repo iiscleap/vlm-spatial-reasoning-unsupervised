@@ -1,0 +1,7 @@
+Q1. Is there a cake in the image?
+Q2. Is there a truck in the image?
+Q3. What are the primary components of the cake in the image?
+Q4. Does the truck appear as a part of the cake in the image?
+Q5. Are the truck and cake the same object in the image?
+Q6. Does the image depict a cake made of a truck?
+Q7. Does the cake consist of the truck? (A) yes (B) no

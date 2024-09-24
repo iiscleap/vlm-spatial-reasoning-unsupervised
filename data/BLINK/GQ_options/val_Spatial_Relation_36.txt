@@ -1,0 +1,7 @@
+Q1. Is there a boat in the image?
+Q2. Is there a TV in the image?
+Q3. Is the boat inside the TV in the image?
+Q4. Is the boat located within the TV in the image?
+Q5. Is the boat situated inside the TV in the image?
+Q6. Is the boat contained within the TV in the image?
+Q7. Is the boat in the TV? Select from the following choices. (A) yes (B) no

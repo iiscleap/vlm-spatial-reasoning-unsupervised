@@ -1,0 +1,7 @@
+Q1. Is there a horse in the image?
+Q2. Is there a cake in the image?
+Q3. Where is the horse in the image?
+Q4. Where is the cake in the image?
+Q5. Where is the horse with respect to the cake in the image?
+Q6. Is the horse situated on top of the cake in the image?
+Q7. Is the horse on the cake? Select from the following choices. (A) yes (B) no

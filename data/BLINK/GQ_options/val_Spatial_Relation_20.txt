@@ -1,0 +1,7 @@
+Q1. Is there a laptop in the image?
+Q2. Is there a teddy bear in the image?
+Q3. What is the position of the laptop in the image?
+Q4. What is the position of the teddy bear in the image?
+Q5. Are the laptop and teddy bear in physical contact with each other in the image?
+Q6. Is the laptop's surface making contact with the teddy bear's surface in the image?
+Q7. Is the laptop touching the teddy bear? (A) yes (B) no

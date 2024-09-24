@@ -1,0 +1,7 @@
+Q1. Does the image show a car?
+Q2. Does the image show a donut?
+Q3. Is the donut inside the car?
+Q4. Is the donut contained within the car?
+Q5. Does the car enclose the donut?
+Q6. Is the donut located within the car's interior?
+Q7. Does the car contain the donut? (A) yes (B) no

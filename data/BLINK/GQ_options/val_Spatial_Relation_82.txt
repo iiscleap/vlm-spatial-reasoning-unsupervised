@@ -1,0 +1,8 @@
+Break down Questions:
+Q1. Is a sandwich in the image?
+Q2. Is a person in the image?
+Q3. What is the position of the sandwich in the image?
+Q4. What is the position of the person in the image?
+Q5. Is the sandwich in close proximity to the person in the image?
+Q6. Is the sandwich making contact with the person in the image?
+Q7. Is the sandwich touching the person? (A) yes (B) no

@@ -1,0 +1,6 @@
+Q1. Is there a car in the image?
+Q2. Is there a bicycle in the image?
+Q3. Where is the car in the image?
+Q4. Where is the bicycle in the image?
+Q5. Where is the car with respect to the bicycle in the image?
+Q6. Is the car situated behind the bicycle in the image? (A) yes (B) no

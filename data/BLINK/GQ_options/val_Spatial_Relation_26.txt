@@ -1,0 +1,6 @@
+Q1. Is there a motorcycle in the image?
+Q2. Is there a train in the image?
+Q3. Where is the motorcycle in the image?
+Q4. Where is the train in the image?
+Q5. Where is the motorcycle with respect to the train in the image?
+Q6. Is the motorcycle situated to the left of the train in the image? (A) yes (B) no

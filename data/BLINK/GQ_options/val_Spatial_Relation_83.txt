@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a bed in the image?
+Q3. Is the cat in close proximity to the bed?
+Q4. Is the cat positioned beside the bed?
+Q5. Is the bed adjacent to the cat?
+Q6. Is the cat situated next to the bed?
+Q7. Is the cat next to the bed? Select from the following choices. (A) yes (B) no

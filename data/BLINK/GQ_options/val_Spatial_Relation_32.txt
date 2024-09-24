@@ -1,0 +1,7 @@
+Q1. Is there a surfboard in the image?
+Q2. Is there a bed in the image?
+Q3. Where is the surfboard in the image?
+Q4. Where is the bed in the image?
+Q5. Is the surfboard situated to the left of the bed in the image?
+Q6. Is the surfboard located to the left of the bed?
+Q7. Is the surfboard left of the bed? (A) yes (B) no

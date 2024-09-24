@@ -1,0 +1,7 @@
+Q1. Is there a cup in the image? 
+Q2. Is there a bowl in the image? 
+Q3. Where is the cup in the image? 
+Q4. Where is the bowl in the image? 
+Q5. Where is the cup with respect to the bowl in the image? 
+Q6. Is the cup situated to the left of the bowl in the image? 
+Q7. Is the cup at the left side of the bowl? Select from the following choices. (A) yes (B) no

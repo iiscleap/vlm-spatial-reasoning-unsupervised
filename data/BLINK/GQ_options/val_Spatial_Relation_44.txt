@@ -1,0 +1,7 @@
+Q1. Is there a refrigerator in the image?
+Q2. Is there a dining table in the image?
+Q3. Where is the refrigerator in the image?
+Q4. Where is the dining table in the image?
+Q5. Where is the refrigerator with respect to the dining table in the image?
+Q6. Is the refrigerator situated behind the dining table in the image?
+Q7. Is the refrigerator behind the dining table? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a handbag in the image?
+Q3. Where is the cat in the image?
+Q4. Where is the handbag in the image?
+Q5. Where is the cat with respect to the handbag in the image?
+Q6. Is the cat situated above the handbag in the image?
+Q7. Is the cat on top of the handbag? (A) yes (B) no

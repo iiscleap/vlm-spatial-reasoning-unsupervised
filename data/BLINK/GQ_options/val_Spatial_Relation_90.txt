@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a teddy bear in the image?
+Q3. Is the cat holding the teddy bear?
+Q4. Is the teddy bear held by the cat?
+Q5. Is the cat in possession of the teddy bear?
+Q6. Is the cat associated with the teddy bear?
+Q7. Is the cat with the teddy bear? (A) yes (B) no

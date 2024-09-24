@@ -1,0 +1,6 @@
+Q1. Is there a bicycle in the image?
+Q2. Is there a cat in the image?
+Q3. Is the bicycle situated below the cat in the image?
+Q4. Is the bicycle beneath the cat?
+Q5. Is the cat above the bicycle?
+Q6. Is the bicycle under the cat? (A) yes (B) no

@@ -1,0 +1,7 @@
+Q1. Is there a boat in the image?
+Q2. Is there a truck in the image?
+Q3. What is the boat in the image located on?
+Q4. What is the truck in the image located on?
+Q5. Is the boat located on top of the truck?
+Q6. Is the boat situated on the truck?
+Q7. Is the boat on the truck? (A) yes (B) no

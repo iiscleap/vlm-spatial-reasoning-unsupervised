@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a teddy bear in the image?
+Q3. What is the relationship between the cat and the teddy bear in the image?
+Q4. Is the cat physically surrounding the teddy bear?
+Q5. Is the cat positioned around the teddy bear?
+Q6. Does the cat encircle the teddy bear?
+Q7. Is the cat surrounding the teddy bear? (A) yes (B) no

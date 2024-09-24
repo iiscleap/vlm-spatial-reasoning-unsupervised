@@ -1,0 +1,7 @@
+Q1. Is there a bus in the image?
+Q2. Is there a motorcycle in the image?
+Q3. What is the orientation of the bus in the image?
+Q4. What is the orientation of the motorcycle in the image?
+Q5. Are the bus and motorcycle on the same plane?
+Q6. Are the bus and motorcycle oriented in the same direction?
+Q7. Is the bus parallel to the motorcycle? (A) yes (B) no

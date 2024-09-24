@@ -1,0 +1,7 @@
+Q1. Is there a hot dog in the image?
+Q2. Is there a person in the image?
+Q3. What is the distance between the hot dog and the person in the image?
+Q4. Is the hot dog located at a considerable distance from the person in the image?
+Q5. Is the hot dog situated at a far distance from the person in the image?
+Q6. Is the person and hot dog at a great distance from each other in the image?
+Q7. Is the hot dog far away from the person? (A) yes (B) no

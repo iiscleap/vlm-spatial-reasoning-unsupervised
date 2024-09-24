@@ -1,0 +1,7 @@
+Q1. Is there a car in the image?
+Q2. Is there a cat in the image?
+Q3. Is the car below the ground level in the image?
+Q4. Is the cat above the ground level in the image?
+Q5. Is the car situated below the cat in the image?
+Q6. Is the car directly under the cat in the image?
+Q7. Is the car under the cat? (A) yes (B) no

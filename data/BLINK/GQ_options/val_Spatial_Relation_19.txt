@@ -1,0 +1,15 @@
+Q1. Is there a laptop in the image?
+Q2. Is there a chair in the image?
+Q3. Is the laptop oriented in a way that it can be seen?
+Q4. Is the chair oriented in a way that it can be seen?
+Q5. Is the laptop visible in the image?
+Q6. Is the chair visible in the image?
+Q7. Is the front of the laptop visible in the image?
+Q8. Is the front of the chair visible in the image?
+Q9. Is the laptop positioned in a way that it can be seen from the front?
+Q10. Is the chair positioned in a way that it can be seen from the front?
+Q11. Is the laptop facing the chair in the image?
+Q12. Is the front of the laptop directed towards the chair in the image?
+Q13. Is the front of the chair directed towards the laptop in the image?
+Q14. Is the laptop situated in front of the chair in the image?
+Q15. Is the laptop facing the chair? (A) yes (B) no

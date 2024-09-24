@@ -1,0 +1,7 @@
+Q1. Is there a person in the image?
+Q2. Is there a bear in the image?
+Q3. What is the direction of the person's face in the image?
+Q4. What is the direction of the bear's face in the image?
+Q5. Is the person's face pointing towards the bear?
+Q6. Is the person's face directed towards the bear?
+Q7. Is the person facing the bear? (A) yes (B) no

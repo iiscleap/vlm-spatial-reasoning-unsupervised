@@ -1,0 +1,7 @@
+Q1. Is there a bowl in the image?
+Q2. Is there an apple in the image?
+Q3. Where is the bowl in the image?
+Q4. Where is the apple in the image?
+Q5. Where is the bowl with respect to the apple in the image?
+Q6. Is the bowl situated in front of the apple in the image?
+Q7. Is the bowl in front of the apple? (A) yes (B) no

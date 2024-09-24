@@ -1,0 +1,7 @@
+Q1. Is there a cat in the image?
+Q2. Is there a teddy bear in the image?
+Q3. What direction is the cat facing in the image?
+Q4. Is the teddy bear facing the same direction as the cat in the image?
+Q5. Are the cat and teddy bear in the same general direction in the image?
+Q6. Is the cat directly facing the teddy bear in the image?
+Q7. Is the cat facing the teddy bear? Select from the following choices. (A) yes (B) no

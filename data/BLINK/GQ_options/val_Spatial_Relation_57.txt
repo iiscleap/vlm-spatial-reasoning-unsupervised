@@ -1,0 +1,7 @@
+Q1. Is there an oven in the image?
+Q2. Is there a cake in the image?
+Q3. Where is the oven in the image?
+Q4. Where is the cake in the image?
+Q5. Where is the oven with respect to the cake in the image?
+Q6. Is the oven situated behind the cake in the image?
+Q7. Is the oven behind the cake? (A) yes (B) no

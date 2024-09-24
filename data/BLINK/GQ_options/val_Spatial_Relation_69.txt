@@ -1,0 +1,24 @@
+Q1. Is there a sink in the image?
+Q2. Is there a cat in the image?
+Q3. Is the cat inside the sink?
+Q4. Is the sink in contact with the cat?
+Q5. Does the sink enclose the cat?
+Q6. Is the cat situated within the sink?
+Q7. Does the sink contain the cat?
+Q8. Is the cat inside the sink?
+Q9. Is the sink holding the cat?
+Q10. Is the cat enclosed by the sink?
+Q11. Is the sink encompassing the cat?
+Q12. Does the sink enclose the cat?
+Q13. Is the cat held by the sink?
+Q14. Is the cat inside the sink?
+Q15. Does the sink hold the cat?
+Q16. Is the cat within the sink?
+Q17. Is the sink enclosing the cat?
+Q18. Is the cat in the sink?
+Q19. Does the sink enclose the cat?
+Q20. Is the cat contained in the sink?
+Q21. Is the sink in the cat?
+Q22. Is the cat in the sink?
+Q23. Does the sink enclose the cat?
+Q24. Is the cat in the sink? (A) yes (B) no
